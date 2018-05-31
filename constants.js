@@ -1,0 +1,7 @@
+export const POINT_COLOR = '#29343d'
+export const LINE_COLOR = '#29343d'
+export const TEXT_COLOR = '#475b6b'
+export const POINT_COLOR_ACTIVE = '#f94d96'
+export const LINE_COLOR_ACTIVE = '#5c7589'
+export const TEXT_COLOR_ACTIVE = '#ffffff'
+export const FONT = '14px sans-serif'
